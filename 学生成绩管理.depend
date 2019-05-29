@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1559057420 source:e:\c\test\学生成绩管理\main.cpp
+	"ClassHead.h"
+	<iostream>
+	<fstream>
+	<vector>
+
+1559095139 source:e:\c\test\学生成绩管理\functions.cpp
+	"ClassHead.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1559092680 e:\c\test\学生成绩管理\classhead.h
+	<iostream>
+	<string>
+
